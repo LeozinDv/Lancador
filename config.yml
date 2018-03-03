@@ -1,0 +1,10 @@
+Configuration:
+   Frente: 3
+   Altura: 1
+
+Item:
+   ID: 401
+   Data: 0
+   Nome: '&eLancador'
+   Lore:
+   - '&7Use para fugir de ataques inimigos!'

@@ -1,0 +1,8 @@
+name: Lancador
+main: me.devleo.lancador.project.Main
+version: 1.0
+author: LeoDevi
+website: leoplugins.com
+
+commands:
+   lancador:
